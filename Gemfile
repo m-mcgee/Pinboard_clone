@@ -17,6 +17,7 @@ gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'devise'
 gem 'paperclip'
+gem 'masonry-rails'
 
 gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
