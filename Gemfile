@@ -18,6 +18,7 @@ gem 'simple_form'
 gem 'devise'
 gem 'paperclip'
 gem 'masonry-rails'
+gem 'acts_as_votable'
 
 gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
